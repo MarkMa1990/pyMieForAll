@@ -27,28 +27,6 @@
  * Author: Hongfeng Ma, 2015
  *
  *----------------------------------------------------------------------
- * 
- * Example,
- * 
- * MieScatterForAll Mie_test;
- * Mie_test(Wavelength_in_vaccum, Particel_Radius, volume_fraction, n_index_Ag, n_index_medium);
- * ---------------
- * 
- * Input:
- *
- * Wavelength in vaccum      // in unit,[um], e.g., 532nm, here use 0.532
- * Particle Radius           // in unit,[um], e.g., 10nm,  here use 0.010
- * Volume fraction           // in unit,[1],  e.g., equals to 1 if there is only one size of particle
- * Optical index of Particle // in unit,[1], e.g., datatype complex<double>, e.g., n_Ag=0.050+3.021j
- * Optical index of Medium   // in unit,[1], e.g., datatype double, should be real.
- *
- * -----------
- *  
- * Output:
- *
- * Qabs
- *
- *----------------------------------------------------------------------
  *
  *
  */
