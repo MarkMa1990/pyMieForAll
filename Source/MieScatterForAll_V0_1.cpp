@@ -22,7 +22,7 @@
  * SOFTWARE.
  *
  * ---------------------------------------------------------------------
- *                  MieScatterForAll Version 0.2
+ *                  MieScatterForAll Version 0.1
  *
  * Author: Hongfeng Ma, 2015
  *
